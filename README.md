@@ -5,7 +5,7 @@
     UI/UX Designing,Online courses & much more.
 - 📫 How to reach us..
      Instagram :- @cyberfactsecurity.in
-     WhatsApp :- +918252002914,+918252387108
+     WhatsApp :- +918252002914
      Telegram channel :- Cyberfact Security
 <!---
 officialcyberfact/officialcyberfact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
